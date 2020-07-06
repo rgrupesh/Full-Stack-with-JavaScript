@@ -12,6 +12,7 @@
 
 .footer{
     background-color: grey;
+    color: whitesmoke;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -28,6 +29,7 @@ address{
     color:#0f0f0f;
 }
 
-.navbar-dark {
-    background-color: #512DA8;
+.navbar {
+    background-color: whitesmoke;
+    color: black;
 }
