@@ -7,6 +7,6 @@
 4. cd React/my-app
 5. run `npm start`
 
-![](react-ss)
+![](React-ss)
 
 
