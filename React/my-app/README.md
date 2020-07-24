@@ -1,7 +1,12 @@
+# REACT
 
+# To run locally:(LINUX and macOS)
+1. clone the repo.
+2. install Node.js from https://nodejs.org/en/ 
+3. install dependencies 
+4. cd React/my-app
+5. run `npm start`
 
-### `npm start`
+![](react-ss)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
