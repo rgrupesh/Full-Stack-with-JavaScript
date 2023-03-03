@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/rgrupesh/web#readme",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
